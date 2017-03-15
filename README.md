@@ -1,0 +1,2 @@
+# mcpe-npc
+fnpc help
