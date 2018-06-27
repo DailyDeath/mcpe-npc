@@ -2,9 +2,7 @@
 namespace FNPC;
 
 /*
-Copyright © 2016 FENGberd All right reserved.
-GitHub Project:
-https://github.com/fengberd/FNPC
+Copyright © 2016 Dailydeath All right reserved
 */
 
 use pocketmine\utils\TextFormat;
